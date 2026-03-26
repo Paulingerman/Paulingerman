@@ -10,22 +10,25 @@
 
 ## Sobre mim
 
-Sou estudante de **Sistemas de Informação**, com graduação iniciada em **2024**, e atuação como **Desenvolvedor de Software**.
+Sou estudante de **Sistemas de Informação**, com graduação iniciada em **2024**, e atuo como **Desenvolvedor de Software**.
 
 Tenho experiência prática com **desenvolvimento e manutenção de sistemas internos**, além de vivência em **documentação técnica**, **análise de requisitos**, **correção de problemas**, **refatoração de código**, **suporte a usuários** e **melhoria contínua de processos**.
 
-Meu principal direcionamento está em **Java**, e também trabalho com tecnologias como **JavaScript, PHP, CakePHP, PostgreSQL, Git e GitHub**.
+Meu principal direcionamento está em **Java**, e também trabalho com tecnologias e ferramentas como **JavaScript, PHP, CakePHP, PostgreSQL, Git, GitHub, GitLab, Linux, Ubuntu, React, Expo Go, Python, pandas, C e Hadoop**.
 
 ---
 
 ## Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,php,postgres,git,github&perline=6" alt="Tecnologias principais" />
+  <img src="https://skillicons.dev/icons?i=java,js,php,postgres,git,github,gitlab,linux,ubuntu,react,python,c&perline=6" alt="Tecnologias principais" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" alt="CakePHP" />
+  <img src="https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
 </p>
 
 ---
